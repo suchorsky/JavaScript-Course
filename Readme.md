@@ -8,11 +8,15 @@ This repository is dedicated to helping you master JavaScript, one of the most p
 
 ## Course Progress
 
+### Basic
+📚 **Lesson 1: Variables**
+
+### Advanced
 📚 **Lesson 1: The 'this' Keyword in JavaScript**
 
 In this initial lesson, we explore the behavior of the 'this' keyword in JavaScript. It serves as the foundation for understanding JavaScript's object-oriented nature and its various use cases in different contexts.
 
-## Upcoming Lessons
+## Upcoming Lessons 🤖
 
 Stay tuned for more exciting lessons and topics as we progress through this course! We'll cover a wide range of JavaScript concepts, from the basics to advanced techniques, and provide practical examples to reinforce your learning.
 
